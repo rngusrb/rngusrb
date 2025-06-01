@@ -31,7 +31,7 @@
 |--------|-------------|------------|
 | [DDPG-Hindsight-Experience-Replay-for-Robot](https://github.com/rngusrb/DDPG-Hindsight-Experience-Replay-for-Robot) |   DDPG와 HER 기반의 로봇팔 강화학습 | Python, PyTorch, MuJoCo, MPI |
 | [movie-recommendation-system-knn-Pearson-Correlation](https://github.com/rngusrb/movie-recommendation-system-knn-Pearson-Correlation) | knn,피어슨 상과계수를 이용한 영화 추천 알고리즘 | Python, Flask, MySQL, HTML |
-| [Budget-Bot-BERT-](https://github.com/rngusrb/Budget-Bot-BERT-) | BERT를 활용한 가계부 프로그 | Python, BERT |
+| [Budget-Bot-BERT-](https://github.com/rngusrb/Budget-Bot-BERT-) | BERT를 활용한 가계부 프로그램 | Python, BERT |
 
 > 각 프로젝트에는 실제 기술 선택 이유, 장애 해결 경험, 협업 방식까지 상세히 기술되어 있습니다.
 
