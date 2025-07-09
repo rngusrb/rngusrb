@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m hyeongyu – Building Meaningful Intelligence with Data</h1>
 <p align="center">
-  금융 AI, 데이터 기반 서비스 및 분석, ai 알고즘에 몰입하고 있는<br>
+  금융 AI, 데이터 기반 서비스 및 분석, ai 알고리즘에 몰입하고 있는<br>
   개발자 Koo hyeongyu의 포트폴리오입니다.
 </p>
 
