@@ -26,6 +26,8 @@
 
 - 단순 모델 학습에 머무르지 않고, **LangChain, RAG, Wikipedia API** 등 실제 유의미한 데이터를 다루는 실전형 Agent 시스템 개발.
 
+- 인간 음성 분석을 위한 **신호처리(Cepstrum)** 기반의 음성 주파수 도출 실험도 수행했으며, FFT, 로그 스펙트럼, quefrency 필터링 기법 등을 구현
+
 - 클라우드(GCP, AWS), Docker, JWT 기반 인증 시스템, Spring + React MSA 환경에서의의 프로젝트를 수행했습니다.
 
 - 코드 품질 향상과 협업을 위해, 기능 단위 테스트, 명확한 API 설계, 문서화를 항상 동반하며 개선 루프를 실행합니다.
@@ -44,6 +46,7 @@
 | [Budget Bot (가계봇)](https://github.com/rngusrb/Budget-Bot-BERT-) | BERT + PyQt 기반 문자 분류 기반 가계부 앱 | Python, BERT, PyQt | 자연어처리 모델과 GUI 연동 실습 경험 |
 | [MSA 기반 전자책 구독 플랫폼](https://github.com/rngusrb/5th_miniproject) | 출판-구독 서비스 시스템, JWT 인증 및 배포 자동화 포함, OpenAI(DALL·E 3) 기반 표지 자동 생성 | Spring Boot, React, Docker, Azure | 실전형 MSA 백엔드 아키텍처 설계 및 인증 연동 경험 |
 | [Advanced LDA (이상치 대응)](https://github.com/rngusrb/Advanced-LDA) | 행렬 정규화, 가중 중앙값 기반 개선형 LDA 분류기 구현 | Python, Scikit-learn, NumPy | 수학 기반 알고리즘 개선 실험 및 분석 경험 |
+| [Cepstrum Analysis](https://github.com/rngusrb/cepstrum-analysis) | 인간 음성의 주파수 분석을 위한 FFT 기반 캡스트럼 분석 | Python, NumPy, SciPy, Matplotlib | 신호처리 기반 주파수 분석 기법과 데이터 정규화 실험 |
 | [AI를 활용한 북커버 만들기](https://github.com/rngusrb/aivle_4th_bookmp) | Spring Boot, React, OpenAI 기반 자동 표지 생성 웹앱  | Spring Boot, React, OpenAI API, JPA | AI 이미지 생성 API 통합 및 풀스택 구현 경험 |
 | [AI Interviewer Agent 2.0](https://github.com/rngusrb/ai_interviewer_agnet) | GPT 기반 답변 평가, 피드백, 질문 생성 모듈 개발 | Python, LangChain, RAG, Wikipedia API | RAG 기반 LLM 시스템 기획 및 설계 경험 |
 
