@@ -42,7 +42,7 @@
 
 ### 💻 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-!(https://github.com/user-attachments/assets/cd3d6144-e77c-42b9-86eb-26d6f67ab5bc)
+![Python](https://github.com/user-attachments/assets/cd3d6144-e77c-42b9-86eb-26d6f67ab5bc)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
