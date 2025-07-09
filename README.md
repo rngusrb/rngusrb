@@ -33,8 +33,8 @@
 | [DDPG + HER for Robot Arm](https://github.com/rngusrb/DDPG-Hindsight-Experience-Replay-for-Robot) | 다중 객체를 목표 지점으로 옮기는 강화학습 프로젝트 | Python, PyTorch, MuJoCo, MPI |
 | [Movie Recommendation System](https://github.com/rngusrb/movie-recommendation-system-knn-Pearson-Correlation) | KNN, 피어슨 상관계수 기반의 영화 추천 알고리즘 | Python, Flask, MySQL |
 | [Budget Bot (가계봇)](https://github.com/rngusrb/Budget-Bot-BERT-) | BERT + PyQt 기반 문자 분류 기반 가계부 앱 | Python, BERT, PyQt |
-| [AI Interviewer Agent 2.0](https://github.com/rngusrb/AI-Interviewer-Agent-v2) | GPT 기반 답변 평가, 피드백, 질문 생성 모듈 개발 | Python, LangChain, RAG, Wikipedia API |
-| [MSA 기반 전자책 구독 플랫폼](https://github.com/leeyumin-dev/5th_miniproject) | 출판-구독 서비스 시스템, JWT 인증 및 배포 자동화 포함 | Spring Boot, React, Docker, Azure |
+| [AI Interviewer Agent 2.0](https://github.com/rngusrb/ai_interviewer_agnet) | GPT 기반 답변 평가, 피드백, 질문 생성 모듈 개발 | Python, LangChain, RAG, Wikipedia API |
+| [MSA 기반 전자책 구독 플랫폼](https://github.com/rngusrb/5th_miniproject) | 출판-구독 서비스 시스템, JWT 인증 및 배포 자동화 포함, OpenAI(DALL·E 3) 기반 표지 자동 생성 | Spring Boot, React, Docker, Azure |
 
 ---
 
