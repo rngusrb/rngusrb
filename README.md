@@ -35,6 +35,8 @@
 | [Budget Bot (가계봇)](https://github.com/rngusrb/Budget-Bot-BERT-) | BERT + PyQt 기반 문자 분류 기반 가계부 앱 | Python, BERT, PyQt |
 | [AI Interviewer Agent 2.0](https://github.com/rngusrb/ai_interviewer_agnet) | GPT 기반 답변 평가, 피드백, 질문 생성 모듈 개발 | Python, LangChain, RAG, Wikipedia API |
 | [MSA 기반 전자책 구독 플랫폼](https://github.com/rngusrb/5th_miniproject) | 출판-구독 서비스 시스템, JWT 인증 및 배포 자동화 포함, OpenAI(DALL·E 3) 기반 표지 자동 생성 | Spring Boot, React, Docker, Azure |
+| [Advanced LDA (이상치 대응)](https://github.com/rngusrb/Advanced-LDA) | 행렬 정규화, 가중 중앙값 기반 개선형 LDA 분류기 구현 | Python, Scikit-learn, NumPy |
+| [AI를 활용한 북커버 만들기](https://github.com/rngusrb/aivle-bookcover-project) | Spring Boot, React, OpenAI 기반 자동 표지 생성 웹앱  | Spring Boot, React, OpenAI API, JPA |
 
 ---
 
