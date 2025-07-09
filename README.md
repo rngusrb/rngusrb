@@ -75,7 +75,7 @@
 
 ## 📬 Reach Me
 
-- Email: [koo.hyeongyu@example.com](mailto:koo.hyeongyu@example.com)
+- Email: [rngusrb1212@naver.com](mailto:rngusrb1212@naver.com)
 - GitHub: [rngusrb](https://github.com/rngusrb)
 
 ---
